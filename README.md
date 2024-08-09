@@ -9,9 +9,10 @@ Download release: https://github.com/0wwafa/torch-v2/releases/latest
 
 Or:
 ```
-node dl.js
-
+git clone https://github.com/0wwafa/torch-v2
+cd torch-v2
 gcc torch-2.c -o torch-2
+node dl.js
 ```
 
 ## just run `torch-2` or `torch-2.exe`
